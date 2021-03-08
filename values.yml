@@ -177,10 +177,10 @@ externalDatabase:
 ## ref: https://github.com/bitnami/bitnami-docker-drupal/#smtp-configuration
 ##
 smtpHost:
-smtpPort:
+smtpPort: 587
 smtpUser:
 smtpPassword:
-smtpProtocol:
+smtpProtocol: tls
 
 ##
 ## MariaDB chart configuration
