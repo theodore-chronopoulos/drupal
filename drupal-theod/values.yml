@@ -74,7 +74,7 @@ drupalUsername: user
 ## Defaults to a random 10-character alphanumeric string if not set
 ## ref: https://github.com/bitnami/bitnami-docker-drupal#configuration
 ##
-drupalPassword: ""
+drupalPassword: "pao1313"
 
 ## Admin email
 ## ref: https://github.com/bitnami/bitnami-docker-drupal#configuration
